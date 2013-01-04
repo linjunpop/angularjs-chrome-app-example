@@ -1,0 +1,13 @@
+{
+  "name": "Angular Example App",
+  "version": "0.0.1",
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "manifest_version": 2,
+  "permissions": [
+    "experimental"
+  ]
+}
